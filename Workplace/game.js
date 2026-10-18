@@ -1,4 +1,4 @@
-let timeLeft = 60;
+let timeLeft = 120;
 
 console.log("Starting Timer:", timeLeft);
 
